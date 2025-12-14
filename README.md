@@ -1,5 +1,5 @@
 # ct-clamp-cable-length
-Simple calculator for determing CT accurace based on cable resistance
+Simple calculator for determining CT accuracy based on cable resistance
 
 ## Resistance vs Error Analysis
 
